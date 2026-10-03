@@ -3,7 +3,7 @@
 MVP de lista de compras familiar compartilhada
 
 
-\##Integrantes:
+## Integrantes:
 
 
 * Eduarda Moreira
