@@ -1,6 +1,6 @@
-# compra-facil
+# Equipe Linka
 
-MVP de lista de compras familiar compartilhada
+Lista de compras familiar compartilhada
 
 
 ## Integrantes:
